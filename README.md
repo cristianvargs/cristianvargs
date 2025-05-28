@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola, mi nombre es Cristian
 
-<!--
-**cristianvargs/cristianvargs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Soy una persona proactiva, mis aficiones son leer, jugar videojuegos y escuchar música.
 
-Here are some ideas to get you started:
+#### Actualmente estoy en un grado superior de desarrollo de aplicaciones web. Tengo conocimientos de gestión de bases de datos, creación de paginas web e instalación y eso de PrestaShop y WordPress. También cuento con algunos trabajos en torno a programación basicos en en lenguaje de Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```git
+git add .
+git commmit -m "Primer commit"
+git push origin main
+```
+
+| Lenguaje | Nivel |
+|----------|-------| 
+| Java | Basico |
+
+<!--Comentario no visible--> 
