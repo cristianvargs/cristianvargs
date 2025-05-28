@@ -1,7 +1,6 @@
 # Hola, mi nombre es Cristian
 
 #### Soy una persona proactiva, mis aficiones son leer, jugar videojuegos y escuchar música.
-
 #### Actualmente estoy en un grado superior de desarrollo de aplicaciones web, realizando las prácticas en canarycloud. Tengo conocimientos de gestión de bases de datos, creación de paginas web e instalación y eso de PrestaShop y WordPress. También cuento con algunos trabajos en torno a programación basicos en en lenguaje de Java.
 
 # Idiomas
@@ -20,10 +19,10 @@
 <p align=left>
   <img src="java.png" />
 </p>
- <br>
+
 
  <p align=left>
-  <img src="html.png" />
+  <img src="html.jpg" />
 </p>
  <br>
  
